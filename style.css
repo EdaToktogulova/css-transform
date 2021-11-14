@@ -1,0 +1,13 @@
+.block {
+    transform: translate();
+}
+
+.inline {
+    display: inline-block;
+    transform: ;
+}
+.block::before {
+    display: inline-block;
+    content: "";
+    transform: ;
+}
